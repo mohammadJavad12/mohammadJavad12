@@ -1,5 +1,3 @@
-hi im a mohammadjavad haghbeigi
-i learned the python and im are middle level python programmer
-i build applications and i love a python
-im are learning pyside2 and python graphic liberis
-سلام من محمد جواد حق بیگی هستم و من یک برنامه نویس متوسط پایتون هستم من برای خودم برنامه درست میکنم و من در حال یاد گیری پکیج های گرافیکی پایتون هستم
+Hi  I'm **MohammadJavad Haghbeigi**. I'm **14** years old , I have started programming since I was **8** years old
+I'm an intermediate in Python , I make desktop apps with PyQt and I realy love learning new things.
+سلام من **محمد جواد حق بیگی** هستم. 14 سال سن دارم ، من از 8 سالگی برنامه نویسی را یاد گرفتم و الان یک حدودا پایتون را بلدم. من با PyQt برنامه های کاربردی می سازم و از یادگرفتن چیز های جدید خوشم میاد.
